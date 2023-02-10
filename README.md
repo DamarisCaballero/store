@@ -214,7 +214,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[It will be a real store]**
+- [ ] **[I will be a real store]**
 - [ ] **[I will make posible to group products by category]**
 - [ ] **[I will deploy this app with a personalized domain]**
 
@@ -236,7 +236,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Hello, there..
 
-If you like this project please give me a star
+If you like this project please give me a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -256,13 +256,13 @@ I would like to thank Kodigo because this boot camp is challenging me to learn p
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[Do I have to use Node.js version?]**
 
-  - [Answer_1]
+  - [Yes, because some dependencies are not compatible with recent versions.]
 
-- **[Question_2]**
+- **[Do I have to configure MongoDB?]**
 
-  - [Answer_2]
+  - [Yes, specially if you want to have your data on the cloud. But yo can also use Mongo Compass in case you want to have you data locally.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
