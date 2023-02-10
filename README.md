@@ -229,7 +229,7 @@ If you like this project please give me a star.
 
 > Inspired by...
 
-I would like to thank Kodigo because this boot camp is challenging me to learn programming.
+I would like to thank Kodigo because this bootcamp is challenging me to learn programming.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
