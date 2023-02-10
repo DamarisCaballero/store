@@ -1,32 +1,6 @@
 <a name="readme-top">Full Stack Application</a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
@@ -60,11 +34,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 La Tiendita <a name="about-project"></a>
 
 > This is a full stack web aplication
 
-**[your_project__name]** is a...
+**[La Tiendita]** is an online store in which you can buy or sell products.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -76,6 +50,9 @@ After you're finished please remove all the comments and instructions!
   <summary>Client</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript">JavaScript</a></li>
+    <li><a href="https://www.apollographql.com/docs/react/">Apollo Client</a></li>
   </ul>
 </details>
 
@@ -83,6 +60,9 @@ After you're finished please remove all the comments and instructions!
   <summary>Server</summary>
   <ul>
     <li><a href="https://nextjs.org/">Next.js</a></li>
+    <li><a href="https://graphql.org/">GraphQL</a></li>
+    <li><a href="https://nodejs.org/en/">Node.js</a></li>
+    <li><a href="https://keystonejs.com/">Keystone.js</a></li>
   </ul>
 </details>
 
