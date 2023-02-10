@@ -1,7 +1,7 @@
 <a name="readme-top">Full Stack Application</a>
 
 <div align="center">
-  <img src="logo.jpeg" alt="logo" width="140"  height="auto" />
+  <img src="logo.jpeg" alt="logo" width="600"  height="auto" />
   <br/>
 
   <h3><b>Full Stack App</b></h3>
