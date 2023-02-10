@@ -214,7 +214,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[I will be a real store]**
+- [ ] **[It will be a real store]**
 - [ ] **[I will make posible to group products by category]**
 - [ ] **[I will deploy this app with a personalized domain]**
 
