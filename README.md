@@ -107,21 +107,9 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+```
 Node.js version 16.9.0
 React 17.0
-
-Example command:
-
-Go to folder /backend and run:
-```
- npm install
- npm run dev
-```
-
-Go to folder /frontend and run:
-```
- npm install
- npm run dev
 ```
 
 ### Setup
@@ -129,7 +117,8 @@ Go to folder /frontend and run:
 Clone this repository to your desired folder:
 
 ```
-  git clone git@github.com:myaccount/my-project.git
+Using Https:
+  https://github.com/DamarisCaballero/store.git
 ```
 
 ### Install
@@ -163,9 +152,9 @@ Go to folder /frontend and run:
 ```
 
 ### Run tests
-
-To run tests, run the following command:
-
+```
+They will be available soon!!
+```
 <!--
 Example command:
 
@@ -176,8 +165,9 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
-
+```
+It will be available soon!!
+```
 <!--
 Example:
 
@@ -196,15 +186,8 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@DamarisCaballero](https://github.com/DamarisCaballero)
+- LinkedIn: [Damaris de Quezada](https://www.linkedin.com/in/damaris-de-quezada/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -246,7 +229,7 @@ If you like this project please give me a star.
 
 > Inspired by...
 
-I would like to thank Kodigo because this bootcamp is challenging me to learn programming.
+I would like to thank Kodigo because this boot camp is challenging me to learn programming.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
